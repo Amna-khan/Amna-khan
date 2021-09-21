@@ -1,6 +1,6 @@
 ![SpaceMan](https://user-images.githubusercontent.com/32608171/134161568-325e2e3c-214c-41e7-b7dc-4784a3d1c557.png)
 
-### Hi there! I'm Amna [website] 👋
+### Hi there! I'm Amna [My website] 👋
 
 ### I'm a Front end developer!
 - 📖 I am currently doing the front end career path from Scrimba.
@@ -39,7 +39,7 @@
 [![Amna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amna-khan)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[website]: #
+[My website]: #
 [course]: #
 [twitter]: #
 [youtube]: #
