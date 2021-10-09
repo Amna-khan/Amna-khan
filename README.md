@@ -54,7 +54,7 @@
 [twitter]: #
 [youtube]: #
 [instagram]:#
-[linkedin]:#
+[linkedin]: https://www.linkedin.com/in/amna-khan-0586b71b5/
 [webdevplaylist]: #
 [jsplaylist]: #
 [cssplaylist]:#
