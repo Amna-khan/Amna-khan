@@ -3,9 +3,7 @@
 ### Hi there! I'm Amna [My website] 👋
 
 ### I'm a Front end developer!
-- 📖 I am currently doing the front end career path from Scrimba.
-- 🥅 2021 goal: Build my portfolio and add 2 great projects.
-- ⚡ Fun Fact: I love going out and playing games.
+
 
 ### Connect with me:
 
