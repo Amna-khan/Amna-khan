@@ -42,9 +42,7 @@
 <br />
 <br />
 
----   
-
-[![Amna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amna-khan)](https://github.com/anuraghazra/github-readme-stats)
+---  
 
 
 [My website]: #
